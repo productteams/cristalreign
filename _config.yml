@@ -1,9 +1,9 @@
 # Site settings
 title: cristal reign
 email: founders@cristalreign.com
-description: > # this means to ignore newlines until "baseurl:"#
-Cabochons cut on demand and one of a kind mineral specimens collected from our travels.
-baseurl: 
+description: > # this means to ignore newlines until "baseurl:"
+  The reign of the emperors and kings created an artisan class that refined their art and made things of great beauty. Most of those items are now lost to antiquity, but some are found and we use artisans trained in the ancient ways to recreate these unique pieces.
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://cristalreign.com" # the base hostname & protocol for your site
 twitter_username: cristalreign
 github_username:  productteams
