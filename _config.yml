@@ -1,9 +1,9 @@
 # Site settings
 title: cristal reign
 email: founders@cristalreign.com
-description: > # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:"#
 Cabochons cut on demand and one of a kind mineral specimens collected from our travels.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: 
 url: "http://cristalreign.com" # the base hostname & protocol for your site
 twitter_username: cristalreign
 github_username:  productteams
