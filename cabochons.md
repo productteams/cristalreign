@@ -42,7 +42,6 @@ categories: rain update
 						</ul>
 					</p>	
 					<div align="center">
-<a href="http://imgur.com/ViypdCb"><img src="http://i.imgur.com/ViypdCb.jpg" title="source: imgur.com" /></a>
 </div><div>			
 <p>
 						<h3>Cabochons- resources:</h3> this thread has the following resource links
