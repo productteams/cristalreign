@@ -9,13 +9,13 @@ categories: rain update
 <div align="center">
 
 	<strong>Cabochons on demand</strong><br>
-	Each Cabochon comes from pieces of rough in our collection.
-	touch to see full screen<br>
+	Each Cabochon comes from pieces of rough in our collection.<br>
 	Order at full price or order a not yet cut similar stone for 30% less.<br>
 	To Buy any stone , text "Buy Stone# " to 805-450-4229<br>
 	To Buy similar stone, text "Buy Similar Stone# "<br>
 	{Of course, prior to shipping, we text you a picture of the finished similar stone.<br>
 	You can accept that stone or wait for the next stone we make from the rough} <br>
+	touch to see full screen<br>
 	<a href="http://imgur.com/MehfmJo"><img src="http://i.imgur.com/MehfmJo.jpg" title="source: imgur.com" /></a>
 	<a href="http://imgur.com/mb9HuA1"><img src="http://i.imgur.com/mb9HuA1.jpg" title="source: imgur.com" /></a>
 	<a href="http://imgur.com/Sv8KP4u"><img src="http://i.imgur.com/Sv8KP4u.jpg" title="source: imgur.com" /></a>
