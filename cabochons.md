@@ -8,9 +8,14 @@ categories: rain update
 
 <div align="center">
 
-	<strong>Cabochons </strong><br>
-	Each of these items in this image flow comes from pieces of rough stones in our collection.<br>
-	we can reproduce any one of these. Orders for the not as yet cut stones receive a 30% discount to the stones we have already producted not to order. Of course, prior to shipping we send you a picture of the finished stone, and you have the choice of refund or waiting for the next stone we make. 
+	<strong>Cabochons on demand</strong><br>
+	Each items comes from pieces of rough in our collection.<br>
+	touch to see full screen<br>
+	Order at full price or order a not yet cut similar stone for 30% less.<br>
+	Buy exact stone now, text "Buy Stone# to 805-450-4229<br>
+	Buy similar stone, text Buy similar Stone#"<br>
+	Of course, prior to shipping, we text you a picture of the finished similar stone.<br>
+	You can accept that stone or wait for the next stone we make. <br>
 	<a href="http://imgur.com/MehfmJo"><img src="http://i.imgur.com/MehfmJo.jpg" title="source: imgur.com" /></a>
 	<a href="http://imgur.com/mb9HuA1"><img src="http://i.imgur.com/mb9HuA1.jpg" title="source: imgur.com" /></a>
 	<a href="http://imgur.com/Sv8KP4u"><img src="http://i.imgur.com/Sv8KP4u.jpg" title="source: imgur.com" /></a>
