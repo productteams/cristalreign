@@ -9,8 +9,8 @@ categories: reign update
 <div align="center">
 
 	<strong>Specimens for sale </strong><br>
-	Each of these items are unique and cannot be replaced.<br>
-	Touch each image to see full screen<br>
+	Each of these items are unique and one of a kind<br>
+	Touch to see full screen<br>
 	Buy Now, text "buy stone#" to 8054504229<p>
 	<a href="http://imgur.com/lGx1NPQ"><img src="http://i.imgur.com/lGx1NPQ.jpg" title="source: imgur.com" /></a>
 	<a href="http://imgur.com/AAipizQ"><img src="http://i.imgur.com/AAipizQ.jpg" title="source: imgur.com" /></a>
