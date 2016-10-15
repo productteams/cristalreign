@@ -4,7 +4,7 @@ title:  "Specimens"
 date:   2016-09-03 13:46:40
 categories: reign update
 ---
-
+http://nevada-outback-gems.com/Nevada_turq_mines/turquoise_mines_of_nevada.htm
 
 <div align="center">
 
