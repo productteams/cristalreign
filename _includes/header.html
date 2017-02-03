@@ -1,9 +1,43 @@
 <header class="site-header">
+<!-- beginning of site-wide alert messages 
+<div class="alert">
+  <span class="closebtn">&times;</span>  
+  <strong>Danger!</strong> Indicates a dangerous or potentially negative action.
+</div>
 
+<div class="alert success">
+  <span class="closebtn">&times;</span>  
+  <strong>Success!</strong> Indicates a successful or positive action.
+</div>
+
+<div class="alert info">
+  <span class="closebtn">&times;</span>  
+  <strong>Info!</strong> Indicates a neutral informative change or action.
+</div>
+
+<div class="alert warning">
+  <span class="closebtn">&times;</span>  
+  <strong>Warning!</strong> Indicates a warning that might need attention.
+</div>
+
+  <script>
+var close = document.getElementsByClassName("closebtn");
+var i;
+
+for (i = 0; i < close.length; i++) {
+    close[i].onclick = function(){
+        var div = this.parentElement;
+        div.style.opacity = "0";
+        setTimeout(function(){ div.style.display = "none"; }, 600);
+    }
+}
+</script>
+   end of site wide of site-wide alert messages -->
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
+   <!-- <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a> dont show this now -->
+  <a href="/index.html"><img src="http://i.imgur.com/524BhyY.png" alt="ntahoe"style="width:300px;height:130px;border:0;">
+</a>
     <nav class="site-nav">
       <a href="#" class="menu-icon">
         <svg viewBox="0 0 18 15">
