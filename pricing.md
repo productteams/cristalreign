@@ -10,22 +10,22 @@ permalink: /pricing/
 
 <div class="columns">
   <ul class="price">
-    <li class="header">SkiWeek Pass </li>
-    <li class="grey">$ 59/week</li>
-    <li>Traffic Predictions</li>
-    <li>Morning Flash</li>
-    <li>BackHome Flash</li>
-    <li>North Tahoe Merchant Specials/Discounts</li>
-    <li class="grey"><a href="#" class="button">Sign Up</a></li>
+    <li class="header">Basic membership </li>
+    <li class="grey">$ FREE</li>
+    <li>Access to close-out deals</li>
+    <li>DEEP DEALS email newsletter</li>
+    <li>One Click Upgrade</li>
+    <li>Browse Artisan Pages</li>
+    <li class="grey"><a href="#" class="button">Join</a></li>
   </ul>
 </div>
 
 <div class="columns">
   <ul class="price">
-    <li class="header" style="background-color:#4CAF50">SkiSeason Pass</li>
-    <li class="grey">$ 190 / season</li>
-    <li>Dedicated Concierge</li>
-    <li>Ski Storage</li>
+    <li class="header" style="background-color:#4CAF50">Princess Membership</li>
+    <li class="grey">$ 20 /season</li>
+    <li>Everything in Basic</li>
+    <li>Submit Three Projects</li>
     <li>VIP Event Access </li>
     <li>VIP Parking Access</li>
     <li class="grey"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -40,14 +40,14 @@ permalink: /pricing/
 
 <div class="columns">
   <ul class="price">
-    <li class="header">Annual Pass</li>
-    <li class="grey">$ 349 / 12 months</li>
-    <li>Dedicated Concierge</li>
-    <li>Plan Your Year services</li>
-    <li>HomeOwners Tasks Services </li>
-    <li>VIP Parking Access </li>
-    <li>VIP RIdes (less than 15 min wait or its free)</li>
-    <li class="grey"><a href="#" class="button">Sign Up</a></li>
+    <li class="header">Queen Membership</li>
+    <li class="grey">$ 100 / 12 months</li>
+    <li>Everything in Basic</li>
+    <li>Unlimited Projects</li>
+    <li>Free Shipping on all items</li>
+    <li>50% off on all appraisals</li>
+    <li>Jewelry concierge to help with outfits</li>
+    <li class="grey"><a href="#" class="button">Join</a></li>
   </ul>
 </div>
 
