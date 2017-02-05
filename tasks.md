@@ -47,31 +47,31 @@ permalink: /ranked-tasks/
     <td>4.3</td>
   </tr>
   <tr>
-    <td>5. WHAT TO DO</td>
+    <td>5. DEEP DEALS NEWLETTER</td>
     <td>8.6</td>
     <td>10</td>
     <td>6.9</td>
   </tr>
   <tr>
-    <td>6.CONCIERGE</td>
+    <td>6.JEWELRY CONCIERGE</td>
     <td>8.1</td>
     <td>10</td>
     <td>4.5</td>
   </tr>
   <tr>
-    <td>7. PLANNING</td>
+    <td>7. ARTISAN BROWSING</td>
     <td>7.1</td>
     <td>9.3</td>
     <td>5.4</td>
   </tr>
   <tr>
-    <td>8. LOCAL NEWS</td>
+    <td>8. EMAIL NEWSLETTER</td>
     <td>7.8</td>
     <td>9.1</td>
     <td>6.3</td>
   </tr>
   <tr>
-    <td>9. SPECIAL DETAILS</td>
+    <td>9. SPECIAL ORDERS</td>
     <td>7.4
 </td>
     <td>9.3
